@@ -1,3 +1,9 @@
 {
-    "git.decorations.enabled": false
+    "git.decorations.enabled": false,
+    "files.associations": {
+        "memory": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "cmath": "cpp"
+    }
 }
